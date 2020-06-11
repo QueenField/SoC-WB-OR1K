@@ -1,21 +1,15 @@
-[submodule "dma"]
-	path = dma
-	url = https://github.com/PacoReinaCampo/MPSoC-DMA.git
-[submodule "pu"]
-	path = pu
-	url = https://github.com/PacoReinaCampo/PU-OR1K.git
-[submodule "mpram"]
-	path = mpram
-	url = https://github.com/PacoReinaCampo/MPSoC-MPRAM.git
-[submodule "gpio"]
-	path = gpio
-	url = https://github.com/PacoReinaCampo/MPSoC-GPIO.git
-[submodule "mpi"]
-	path = mpi
-	url = https://github.com/PacoReinaCampo/MPSoC-MPI.git
+[submodule "dbg-wb"]
+	path = dbg-wb
+	url = https://github.com/QueenField/MPSoC-WB-DBG.git
+[submodule "dma-wb"]
+	path = dma-wb
+	url = https://github.com/QueenField/MPSoC-WB-DMA.git
+[submodule "mpi-wb"]
+	path = mpi-wb
+	url = https://github.com/QueenField/MPSoC-WB-MPI.git
+[submodule "pu-wb"]
+	path = pu-wb
+	url = https://github.com/QueenField/PU-OR1K.git
 [submodule "noc"]
 	path = noc
-	url = https://github.com/PacoReinaCampo/MPSoC-NoC.git
-[submodule "dbg"]
-	path = dbg
-	url = https://github.com/PacoReinaCampo/MPSoC-DBG.git
+	url = https://github.com/QueenField/MPSoC-NoC.git
