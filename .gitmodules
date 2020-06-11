@@ -7,9 +7,9 @@
 [submodule "mpi-wb"]
 	path = mpi-wb
 	url = https://github.com/QueenField/MPSoC-WB-MPI.git
-[submodule "pu-wb"]
-	path = pu-wb
-	url = https://github.com/QueenField/PU-OR1K.git
 [submodule "noc"]
 	path = noc
 	url = https://github.com/QueenField/MPSoC-NoC.git
+[submodule "pu-wb"]
+	path = pu-wb
+	url = https://github.com/QueenField/PU-WB-OR1K.git
